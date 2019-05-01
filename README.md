@@ -49,5 +49,40 @@ You can call an issue a crash if simply two things happen with you.
 
 * The second thing is when the app becomes responsive you know this word. It's not responding. Sometimes it appears and it means that the app is having a crash.
 
+### Bug Severity and How to write a bug report?
 
+#### Bug Priority Level
 
+* How fast a bug should be fixed according to its impact on the functions or features of a successful launch of the product (a website home page or an application).
+
+* How severe is the impact of a bug on the core functionality of the component or system.
+
+* Critical : The defect affects the core functionality or critical data. It does not have a work around. (the enduser cannot have a solution for it or replace it with another function).
+
+* High : a feature or function is not usable as its supposed to be. Should be fixed in the first available patch or release after launch.
+
+* Medium : Bugs that do not affect any critical user functionality. They have workarounds. The function works but in a degraded fashion.
+
+* Low : The defect doesn't affect functionality or data. It doesn't need a work around. It doesn't impact productivity or efficiency. It is merely an inconvenience.
+
+#### How to write a bug report?
+
+1) A short but informative headline that includes a short description of the issue
+
+2) When did you first notice the bug?
+
+3) How frequently does the bug surface?
+
+4) Where does the bug appear? (For instance, on the main menu screen or splash screen)
+
+5) Can the bug be reproduced over and over or only sporadically?
+
+6) What are the exact error messages that you are receiving?
+
+7) Is there any other relevant error information to report?
+
+8) List the steps did you take to reproduce the bug? Be specific.
+
+9) If you can’t reproduce the bug 100% of the time, indicate how often you can reproduce it (For instance, 3 of every 10 attempts).
+
+10) State how the bug has affected your expected results. Include any suggestions that you feel could potentially fix the bug.
